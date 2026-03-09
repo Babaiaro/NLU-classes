@@ -1,0 +1,2 @@
+1001,John,Smith,20,Computer Science
+1002,Alice,Brown,21,Mathematics
